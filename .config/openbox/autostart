@@ -1,0 +1,4 @@
+sh ~/.fehbg &
+xcompmgr &
+plank &
+stalonetray --dockapp-mode simple &
