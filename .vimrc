@@ -18,7 +18,7 @@ set undolevels=1000
 set nobackup
 set noswapfile
 
-syntax off
+syntax on
 nnoremap ; :
 
 
