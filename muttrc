@@ -1,0 +1,16 @@
+set folder = "imaps://lee@ahluka.co.uk@mail.ahluka.co.uk:993"
+set smtp_url = "smtp://lee@ahluka.co.uk@mail.ahluka.co.uk:587"
+
+#set smtp_pass = ""
+#set imap_pass = ""
+
+set from = "lee@ahluka.co.uk"
+set realname = "Lee Thomas"
+
+set spoolfile = "+INBOX"
+set record = "+INBOX.Sent"
+set trash = "+INBOX.Trash"
+set postponed = "+INBOX.Drafts"
+
+mailboxes =INBOX =Sent =Trash =Drafts =Junk
+
