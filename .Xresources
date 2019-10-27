@@ -1,47 +1,51 @@
 !! Colorscheme
 
 ! special
-*.foreground: #93a1a1
-*.background: #141c21
-*.cursorColor: #afbfbf
+*.foreground: #00bb00
+*.background: #001100
+*.cursorColor: #00bb00
 
 ! black
-*.color0: #263640
-*.color8: #4a697d
+*.color0: #001100
+*.color8: #007700
 
 ! red
-*.color1: #d12f2c
-*.color9: #fa3935
+*.color1: #007700
+*.color9: #007700
 
 ! green
-*.color2: #819400
-*.color10: #a4bd00
+*.color2: #00bb00
+*.color10: #00bb00
 
 ! yellow
-*.color3: #b08500
-*.color11: #d9a400
+*.color3: #007700
+*.color11: #007700
 
 ! blue
-*.color4: #2587cc
-*.color12: #2ca2f5
+*.color4: #009900
+*.color12: #009900
 
 ! magenta
-*.color5: #696ebf
-*.color13: #8086e8
+*.color5: #00bb00
+*.color13: #00bb00
 
 ! cyan
-*.color6: #289c93
-*.color14: #33c5ba
+*.color6: #005500
+*.color14: #005500
 
 ! white
-*.color7: #bfbaac
-*.color15: #fdf6e3
+*.color7: #00bb00
+*.color15: #00ff00
 
 !! URxvt Appearance
-URxvt.font: xft:VT323:style=Regular:size=15
-URxvt.boldFont: xft:VT323:style=Bold:size=15
-URxvt.italicFont: xft:VT323:style=Italic:size=15
-URxvt.boldItalicFont: xft:VT323:style=Bold Italic:size=15
+#URxvt.font: xft:terminus:style=Regular:size=15
+#URxvt.boldFont: xft:terminus:style=Bold:size=15
+#URxvt.italicFont: xft:terminus:style=Italic:size=15
+#URxvt.boldItalicFont: xft:terminus:style=Bold Italic:size=15
+URxvt.font: xft:xos4 Terminus:style=Regular:pixelsize=14
+URxvt.boldFont: xft:xos4 Terminus:style=Regular:pixelsize=14
+URxvt.italicFont: xft:xos4 Terminus:style=Regular:pixelsize=14
+URxvt.boldItalicFont: xft:xos4 Terminus:style=Regular:pixelsize=14
 URxvt.letterSpace: 0
 URxvt.lineSpace: 0
 URxvt.geometry: 120x32
