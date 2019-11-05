@@ -2,14 +2,10 @@
 
 
 !! URxvt Appearance
-#URxvt.font: xft:terminus:style=Regular:size=15
-#URxvt.boldFont: xft:terminus:style=Bold:size=15
-#URxvt.italicFont: xft:terminus:style=Italic:size=15
-#URxvt.boldItalicFont: xft:terminus:style=Bold Italic:size=15
-URxvt.font: xft:xos4 Terminus:style=Regular:pixelsize=14
-URxvt.boldFont: xft:xos4 Terminus:style=Regular:pixelsize=14
-URxvt.italicFont: xft:xos4 Terminus:style=Regular:pixelsize=14
-URxvt.boldItalicFont: xft:xos4 Terminus:style=Regular:pixelsize=14
+URxvt.font: xft:IBM Plex Mono:style=Regular:size=14
+URxvt.boldFont: xft:IBM Plex Mono:style=Regular:size=14
+URxvt.italicFont: xft:IBM Plex Mono:style=Regular:size=14
+URxvt.boldItalicFont: xft:IBM Plex Mono:style=Regular:size=14
 URxvt.letterSpace: 0
 URxvt.lineSpace: 0
 URxvt.geometry: 120x32
